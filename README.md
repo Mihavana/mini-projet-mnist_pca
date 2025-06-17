@@ -15,3 +15,11 @@ MNIST est un ensemble de données très populaire contenant des images de chiffr
 ✅ Visualiser les données réduites (2D ou 3D)  
 ✅ Analyser la variance expliquée par les composantes principales  
 ✅ (Optionnel) Reconstruire les images à partir des données réduites pour mesurer la perte d’information
+
+---
+
+##  Membres du groupe
+- RAHOLDINA FIARA Anjara Mihavana
+- RANDRIAMIARAMANANA Narivelo Yvan
+- ANDRIAMANAKOTO Anjara Tafita
+- RALALASON Rodéo Victorieux
