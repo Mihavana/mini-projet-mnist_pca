@@ -23,3 +23,4 @@ MNIST est un ensemble de données très populaire contenant des images de chiffr
 - RANDRIAMIARAMANANA Narivelo Yvan
 - ANDRIAMANAKOTO Anjara Tafita
 - RALALASON Rodéo Victorieux
+- GESY Louis Xavier
